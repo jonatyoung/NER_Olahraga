@@ -1,0 +1,5 @@
+﻿Luis Enrique tahu start Paris Saint Germain di Liga Champions tidak bagus
+B-PER I-PER O O B-ORG I-ORG I-ORG O B-LEAGUE I-LEAGUE O O
+
+Maka Les Parisiens dituntut bangkit meski punya catatan negatif saat bertemu Bayern Munich
+O B-ORG I-ORG O O O O O O O O B-ORG I-ORG
