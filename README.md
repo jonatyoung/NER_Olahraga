@@ -211,3 +211,4 @@ Seti, X. et al., 2020. Named-entity recognition in sports field based on a chara
 * I Putu Paramaananda Tanaya
 * Muhammad Aldy Naufal Fadhilah 
 * Jonathan Young
+* Nada Firdaus
