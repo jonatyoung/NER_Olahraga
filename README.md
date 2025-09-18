@@ -204,3 +204,10 @@ Jehangir, B., Radhakrishnan, S. & Agarwal, R., 2023. A survey on named entity re
 
 Li, J., Sun, A., Han, J. & Li, C., 2022. A survey on deep learning for named entity recognition. IEEE Transactions on Knowledge and Data Engineering, 34(1), pp.50–70. Available at: https://ieeexplore.ieee.org/document/10184827 .
 Seti, X. et al., 2020. Named-entity recognition in sports field based on a character-level graph convolutional network. Information, 11(1), p.30. Available at: https://www.mdpi.com/2078-2489/11/1/30 .
+
+
+---
+## Development Team
+* I Putu Paramaananda Tanaya
+* Muhammad Aldy Naufal Fadhilah 
+* Jonathan Young
